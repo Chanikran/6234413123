@@ -1,2 +1,2 @@
 # 6234413123
-java lab2
+java lab com tech
